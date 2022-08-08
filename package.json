@@ -1,7 +1,7 @@
 {
   "name": "emcc",
   "version": "0.0.0",
-  "license": "Unlicense",
+  "license": "0BSD",
   "scripts": {
     "build": "make build",
     "serve": "serve ."
